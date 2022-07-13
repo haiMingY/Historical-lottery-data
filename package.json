@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "node-xlsx": "^0.21.0",
-    "puppeteer": "^14.3.0"
+    "puppeteer": "^14.3.0",
+    "@tensorflow/tfjs":"^3.18.0"
   }
 }
